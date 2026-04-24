@@ -11,7 +11,7 @@ const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/encuen
 // ── CONFIGURA TUS DATOS AQUÍ ──────────────────────────────────
 const ADMIN = {
   nombre:   'Administrador Red',
-  email:    'admin@redaltohospicio.cl',
+  email:    'admin@red.cl',
   password: 'Admin2026!',
 };
 // ─────────────────────────────────────────────────────────────
