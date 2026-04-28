@@ -9,7 +9,7 @@ const AREAS = [
   { nombre: 'PISE', sede: 'Colegio Metodista Robert Johnson' },
   { nombre: 'UTP/Equipos Técnicos', sede: 'Colegio Bicentenario Kronos' },
   { nombre: 'Coordinadores Extraescolar', sede: 'Colegio Marista Hermano Fernando' },
-  { nombre: 'Directores y Directoras',    sede: 'Colegio Salesiano Santo Domingo Savio' }
+  { nombre: 'Directores y Directoras',    sede: 'Colegio San Pedro' }
 ];
 
 const registrationSchema = new mongoose.Schema(
