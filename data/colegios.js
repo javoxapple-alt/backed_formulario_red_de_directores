@@ -1,5 +1,5 @@
 // colegios.js — Lista de establecimientos educacionales de Iquique y Alto Hospicio
-// Fuentes: SLEP Iquique, Diócesis de Iquique, SEREMI Educación Tarapacá, registros públicos Mineduc
+
 
 const COLEGIOS = [
   // ── ALTO HOSPICIO ──────────────────────────────────────────────
