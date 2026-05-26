@@ -70,4 +70,4 @@ const COLEGIOS = [
   { nombre: "Otro establecimiento", comuna: "Otro" },
 ];
 
-module.exports = COLEGIOS;
+module.exports = COLEGIOS
