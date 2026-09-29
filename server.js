@@ -15,7 +15,7 @@ app.use('/api/auth',          require('./routes/auth'));
 app.use('/api/registrations', require('./routes/registrations'));
 
 app.get('/', (req, res) => {
-  res.json({ message: 'API I Encuentro de la Red 2026 — OK' });
+  res.json({ message: 'API IV Encuentro de la Red 2026 — OK' });
 });
 
 mongoose
